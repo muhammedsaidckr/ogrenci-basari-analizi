@@ -4,7 +4,9 @@
 <a href="http://demo.mscakir.com" target="_blank">
 Demo
 </a>
-<p align="center">
+<p>
+Demo mail: demo@oap.com
+Demo şifre: 12345678
 </p>
 
 ## Kullanılan teknolojiler
